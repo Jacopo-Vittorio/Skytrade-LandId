@@ -1,8 +1,6 @@
 """
 Using this script to test the call executed towards Land.id
-used the following data : 
-authentication token >> w1mBcRc5ouxfm5fFF7-r
-request with data >>  https://parcels.id.land/parcels/v2/by_location.json?lng=-83.93399323458202&lat=39.18766110300089&X-Auth-Token=w1mBcRc5ouxfm5fFF7-r&X-Auth-Email=atomic.jacopo@gmail.com
+
 """
 
 import asyncio
