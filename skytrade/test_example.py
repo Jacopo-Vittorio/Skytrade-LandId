@@ -138,8 +138,8 @@ def file_print(data):
 # Example usage 
 lng = -83.93399323458202
 lat = 39.18766110300089
-auth_token = "w1mBcRc5ouxfm5fFF7-r"
-auth_email = "atomic.jacopo@gmail.com"
+auth_token = "-"
+auth_email = "-"
 
 ## data =  get_parcel_data(lng, lat, auth_token, auth_email)
 data = asyncio.run(get_parcel_data(lng, lat , auth_token, auth_email))
